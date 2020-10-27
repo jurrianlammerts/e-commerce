@@ -14,4 +14,4 @@ This project is currently <b>under development</b>.
 - Theming
 - Standarized Data Hooks
 - Integrations - Integrate seamlessly with the most common ecommerce platforms.
-- Dark Mode Support
+- Dark Mode Support 
